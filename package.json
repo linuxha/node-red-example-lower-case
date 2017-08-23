@@ -1,6 +1,6 @@
 {
   "name": "node-red-example-lower-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Creating your first node, lower-case",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linuxha/node-red-example-lower-case.git"
+    "url": "git://github.com/linuxha/node-red-example-lower-case.git"
   },
   "keywords": [
     "example"
